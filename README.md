@@ -3,6 +3,7 @@ potluck hotpot
 
 ingredients must go in like this (example)
 
+```
 hotpot/
 │
 ├── README.md
@@ -65,3 +66,4 @@ hotpot/
 │
 └── etc/
     └── ...
+```
