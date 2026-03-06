@@ -52,12 +52,7 @@ hotpot/
 │   ├── docker.md
 │   ├── kubernetes.md
 │   └── ...
-│
-├── diagrams/
-│   ├── caching.png
-│   ├── ci-cd.png
-│   └── microservices.png
-│
+|
 ├── behaviourals/
 │   └── ...
 │
