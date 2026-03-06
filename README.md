@@ -27,27 +27,25 @@ hotpot/
 │   ├── s3.md
 │   ├── lambda.md
 │   ├── api-gateway.md
-│   ├── dynamodb.md
-│   ├── ...
+│   └── ...
 │
 ├── system-design/
 │   ├── caching.md
 │   ├── queues.md
 │   ├── rate-limiting.md
-│   ├── ...
+│   └── ...
 │
 ├── data-structures/
 │   ├── arrays.md
 │   ├── linked-lists.md
 │   ├── stacks.md
-│   ├── queues.md
-│   ├── ...
+│   └── ...
 │
 ├── algorithms/
 │   ├── binary-search.md
 │   ├── two-pointers.md
 │   ├── sliding-window.md
-│   ├── ...
+│   └── ...
 │
 ├── devops/
 │   ├── docker.md
