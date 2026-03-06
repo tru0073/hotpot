@@ -1,6 +1,8 @@
 # hotpot
 potluck hotpot
 
+ingredients must be edible (we cannot eat slop)
+
 ingredients must go in like this (example)
 
 ```
